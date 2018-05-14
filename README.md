@@ -4,19 +4,11 @@ mathjax: true
 permalink: /assignments2018/assignment2/
 ---
 
-In this assignment you will practice writing backpropagation code, and training
-Neural Networks and Convolutional Neural Networks. The goals of this assignment
-are as follows:
+# CS231n-Project
 
-- understand **Neural Networks** and how they are arranged in layered
-  architectures
-- understand and be able to implement (vectorized) **backpropagation**
-- implement various **update rules** used to optimize Neural Networks
-- implement **Batch Normalization** and **Layer Normalization** for training deep networks
-- implement **Dropout** to regularize networks
-- understand the architecture of **Convolutional Neural Networks** and
-  get practice with training these models on data
-- gain experience with a major deep learning framework, such as **TensorFlow** or **PyTorch**.
+
+## Authors: Oseas Ayerdi, Paul de La Villehuchet
+## Much to do from now
 
 ## Setup
 Get the code as a zip file [here](http://cs231n.github.io/assignments/2018/spring1718_assignment2.zip).
@@ -108,5 +100,4 @@ cd DEST_PATH
 ```
 Once you run the submit script, simply follow the on-screen prompts to finish submitting the assignment on AFS. If successful, you should see a "SUBMIT SUCCESS" message output by the script.
 
-# CS231n-Project
 # CS231n-Project
